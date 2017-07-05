@@ -1,6 +1,6 @@
 {
   "name": "hapi-brick-routeloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The route loader of the hapi-brick stack",
   "main": "index.js",
   "scripts": {
